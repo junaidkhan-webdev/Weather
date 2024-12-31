@@ -1,0 +1,18 @@
+body{
+    background-image: url("1.jpg");
+    background-position: fixed;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    
+}
+
+
+
+.back{
+    background-color: aqua;
+    border-radius: 30px;
+    width: 550px;
+    
+}
